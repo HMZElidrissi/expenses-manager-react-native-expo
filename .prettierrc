@@ -1,0 +1,21 @@
+{
+  "semi": true,
+  "tabWidth": 2,
+  "printWidth": 100,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "importOrder": [
+    "^react(-native)?$",
+    "^@react-navigation/(.*)$",
+    "^@/contexts/(.*)$",
+    "^@/components/(.*)$",
+    "^@/screens/(.*)$",
+    "^@/constants/(.*)$",
+    "^@/types/(.*)$",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}
